@@ -1,0 +1,57 @@
+<mat-form-field>
+    <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+</mat-form-field>
+
+<div class="mat-elevation-z8">
+    <table mat-table [dataSource]="dataSource" matSort>
+
+        
+
+        <ng-container matColumnDef="regno">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Reg No </th>
+            <td mat-cell *matCellDef="let row"> {{row.regno}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="rideCount">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Ride Count </th>
+            <td mat-cell *matCellDef="let row"> {{row.rideCount}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="initStation">
+             <th mat-header-cell *matHeaderCellDef mat-sort-header> Initial Stat. </th>
+            <td mat-cell *matCellDef="let row"> {{row.initStation}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="finalStation">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Final Stat. </th>
+            <td mat-cell *matCellDef="let row"> {{row.finalStation}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="initTime">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Initial Time </th>
+            <td mat-cell *matCellDef="let row"> {{row.initTime}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="finalTime">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Final Time </th>
+            <td mat-cell *matCellDef="let row"> {{row.finalTime}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="comments">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Comments </th>
+            <td mat-cell *matCellDef="let row"> {{row.comments}} </td>
+        </ng-container>
+
+
+        <ng-container matColumnDef="userName">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> User Name </th>
+            <td mat-cell *matCellDef="let row"> {{row.userName}} </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;">
+        </tr>
+    </table>
+
+    
+</div>

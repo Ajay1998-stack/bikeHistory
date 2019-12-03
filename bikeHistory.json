@@ -1,0 +1,246 @@
+{
+    "bikeHistory": [
+        {
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },
+        {
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        },{
+            "id": 1,
+            "regno": 1234,
+            "rideCount":1,
+            "initStation": "Forum mall",
+            "finalStation": "Truffles",
+            "initTime": 0,
+            "finalTime": 0,
+            "comments":"Test Ride",
+            "userName": "Ajay"
+        }
+    ]
+}
